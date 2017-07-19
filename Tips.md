@@ -8,37 +8,37 @@ If you want to be a productive wizard, foundational skills must be developed. It
 
 >http://www.keybr.com/
 > - employs statistics and smart algorithms to automatically generate typing lessons matching your skills;
->- generates random, but readable and pronounceable words using the phonetic rules 
+>- generates random, but readable and pronounceable words using the phonetic rules
 
 >https://www.typingclub.com/
 > - Great to develop proper finger placement on keyboard
 
 >http://play.typeracer.com/
-> - Just for fun; surprisingly addictive competition-based game. 
+> - Just for fun; surprisingly addictive competition-based game.
 
-##Useful Productivity Tools
-###Window Resizing:
-Free: 
+## Useful Productivity Tools
+### Window Resizing:
+Free:
 Spectacle: https://www.spectacleapp.com/
 
 
 Paid:
 Magnet: https://itunes.apple.com/us/app/magnet/id441258766?mt=12
 
-###Notetaking:
+### Notetaking:
 Free:
 Evernote: https://evernote.com/
 
 Paid:
 ⭐️⭐️⭐️⭐️⭐️Quiver: http://happenapps.com/
 
-###Alfred: https://www.alfredapp.com/
+### Alfred: https://www.alfredapp.com/
 - Search/Browse/Set Hotkeys
 -Snippets and supports Clipboard History
 -Calculate
 -Spell/Define
 
-##Keyboard/Shortcut Commands
+## Keyboard/Shortcut Commands
  `command + spacebar`  **open Spotlight**
 `option + spacebar` **open Alfred**
 `command + tab` **switch between open apps**
@@ -46,7 +46,7 @@ Paid:
 `command + control + shift + 4` **selective screenshot copied to clipboard**
 
 
-##Terminal Commands
+## Terminal Commands
 >**Tab**
 - _Allows for Autocomplete Paths_
 - _Press Twice if does not autocomplete to show potential options_
@@ -75,7 +75,7 @@ ditto path/to/source path/to/destination
 - _Place the contents of a file in the clipboard_
 
 
-##Aliases (with Bash)
+## Aliases (with Bash)
 
 ⁉️ **What is Bash? What is a shell?**
 
@@ -112,7 +112,7 @@ ditto path/to/source path/to/destination
 > **alias hs='history | grep'**
 include some text to search
 
-##Plugins and Tools
+## Plugins and Tools
 
 **Let's download iTerm2!!!**
 
@@ -134,10 +134,10 @@ include some text to search
   - Verify Default:
     - `echo $SHELL`
   - **Install Oh My Zsh:**
-    - Via curl `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` 
+    - Via curl `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
 
-##Extras
+## Extras
 
 **run**
 `telnet towel.blinkenlights.nl`
