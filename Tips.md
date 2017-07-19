@@ -84,8 +84,8 @@ ditto path/to/source path/to/destination
 - Check for .bashrc file
 - If not:   
   - create .bashrc file by running:
-    >vi ~/.bashrc
-    echo PATH=$PATH:~/bin > .bashrc
+    `vi ~/.bashrc
+    echo PATH=$PATH:~/bin > .bashrc`
 - Open File
 - At end of file, add the alias
 >**alias aliasname='commands'**
