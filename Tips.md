@@ -93,20 +93,31 @@ ditto path/to/source path/to/destination
 **Some useful aliases Part One:**
 
 > **alias gst='git status'**
+
 > **alias gc='git commit -m'**
+
 > **alias ga='git add'**
+
 > **alias gaa='git add -A'**
+
 > **alias gcb='git checkout -b'**
+
 > **alias gco='git checkout'**
+
 > **alias gp='git push'**
+
 > **alias gpo='git push origin master'**
+
 > **alias gb='git branch'**
+
 > **alias gba='git branch -a'**
+
 > **alias grv='git branch -v'**
 
 > **alias modb='atom ~/.bashrc'**
 
 > **alias ..='cd ..'**
+
 > **alias ...='cd ../../'**
 
 > **alias hs='history | grep'**
