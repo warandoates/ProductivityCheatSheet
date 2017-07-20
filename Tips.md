@@ -49,6 +49,17 @@ Paid:
 
 `command + control + shift + 4` **selective screenshot copied to clipboard**
 
+`command + backspace` **delete to beginning of line**
+
+`command + →` **move cursor to end of line**
+
+`command + ←` **move cursor to beginning of line**
+
+`option + →` **jumps cursor to the next word**
+
+`option + ←` **jumps cursor to the previous word** 
+
+
 
 ## Terminal Commands
 >**Tab**
@@ -129,6 +140,21 @@ ditto path/to/source path/to/destination
 ## Plugins and Tools
 ### Terminal Alternative
 **Let's download iTerm2!!!**
+
+### Github plugins
+
+`Emmmet` https://atom.io/packages/emmet
+- Expand abbreviations by Tab key
+
+`file-icons` https://atom.io/packages/file-icons
+
+`indent-guide-improved` https://atom.io/packages/indent-guide-improved
+
+`open-in-browser` https://atom.io/packages/open-in-browser
+
+`markdown-preview-plus` https://atom.io/packages/markdown-preview-plus
+
+
 
 ###Shell Alternative
 >***Oh-My-Zsh***
