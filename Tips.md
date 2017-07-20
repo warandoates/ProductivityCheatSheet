@@ -40,9 +40,13 @@ Paid:
 
 ## Keyboard/Shortcut Commands
  `command + spacebar`  **open Spotlight**
+
 `option + spacebar` **open Alfred**
+
 `command + tab` **switch between open apps**
+
 `command + shift + 4` **selective screenshot**
+
 `command + control + shift + 4` **selective screenshot copied to clipboard**
 
 
