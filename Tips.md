@@ -4,7 +4,7 @@
 
 **Being able to fly in your terminal is an awesome skill. Using a combo of typing speed, terminal commands, aliases, Vim (_if you dare_), and practice, anyone can be terminal pro; a command-line wizard**
 
-If you want to be a productive wizard, foundational skills must be developed. It's essential to be able to develop best practices with typing skills, and practice to build a an improving wpm speed. The following are some good resources for practicing typing skills:
+In order to maximize developer tools and helpers, it's essential to have a solid foundation with typing. To improve your skills, the following are some good resources:
 
 >http://www.keybr.com/
 > - employs statistics and smart algorithms to automatically generate typing lessons matching your skills;
@@ -96,41 +96,41 @@ ditto path/to/source path/to/destination
 
 **Some useful aliases Part One:**
 
-> **alias gst='git status'**
+`alias gst='git status'`
 
-> **alias gc='git commit -m'**
+`alias gc='git commit -m'`
 
-> **alias ga='git add'**
+`alias ga='git add'`
 
-> **alias gaa='git add -A'**
+`alias gaa='git add -A'`
 
-> **alias gcb='git checkout -b'**
+`alias gcb='git checkout -b'`
 
-> **alias gco='git checkout'**
+`alias gco='git checkout'`
 
-> **alias gp='git push'**
+`alias gp='git push'`
 
-> **alias gpo='git push origin master'**
+`alias gpo='git push origin master'`
 
-> **alias gb='git branch'**
+`alias gb='git branch'`
 
-> **alias gba='git branch -a'**
+`alias gba='git branch -a'`
 
-> **alias grv='git branch -v'**
+`alias grv='git branch -v'`
 
-> **alias modb='atom ~/.bashrc'**
+`alias modb='atom ~/.bashrc'`
 
-> **alias ..='cd ..'**
+`alias ..='cd ..'`
 
-> **alias ...='cd ../../'**
+`alias ...='cd ../../'`
 
-> **alias hs='history | grep'**
-include some text to search
+`alias hs='history | grep'` include some text to search
 
 ## Plugins and Tools
-
+### Terminal Alternative
 **Let's download iTerm2!!!**
 
+###Shell Alternative
 >***Oh-My-Zsh***
 
 **Oh My Zsh will not make you a 10x developer...but you might feel like one.**
