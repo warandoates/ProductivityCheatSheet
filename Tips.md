@@ -57,7 +57,12 @@ Paid:
 
 `option + →` **jumps cursor to the next word**
 
-`option + ←` **jumps cursor to the previous word** 
+`option + ←` **jumps cursor to the previous word**
+
+<code>command + &#96;</code> **toggle between app windows**
+
+##Atom Keyboard Commands
+`control + command + ↑ or ↓` **move line up or down**  
 
 
 
